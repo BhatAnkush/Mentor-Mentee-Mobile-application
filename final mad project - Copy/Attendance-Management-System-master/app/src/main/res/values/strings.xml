@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SCEM ATTENDENCE</string>
+    <string-array name="dept_options">
+        <item>--Select--</item>
+        <item>ISE</item>
+        <item>CSE</item>
+        <item>MECH</item>
+        <item>ECE</item>
+        <item>DS</item>
+        <item>AIML</item>
+    </string-array>
+    <string-array name="semester_options">
+        <item>-Select-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>

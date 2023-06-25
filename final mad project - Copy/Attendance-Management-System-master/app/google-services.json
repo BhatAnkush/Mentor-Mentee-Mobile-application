@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710325998549",
+    "firebase_url": "https://attendence-management-3e705-default-rtdb.firebaseio.com",
+    "project_id": "attendence-management-3e705",
+    "storage_bucket": "attendence-management-3e705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710325998549:android:53b40eb8cf3b7e5ccce35c",
+        "android_client_info": {
+          "package_name": "com.example.siesattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710325998549-irrvbfj87kgb4hbg06l4uckghmh81l1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJpjAl6a9mzy10jPtGwH7eEEUwItvjFYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710325998549-irrvbfj87kgb4hbg06l4uckghmh81l1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
